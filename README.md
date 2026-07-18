@@ -17,6 +17,7 @@ A core focus of this project was data integrity.
 * **ETL:** Automated data cleaning and pipeline construction.
 * **DAX:** Advanced metric creation for financial calculations.
 
-## Visualizations<img width="1223" height="509" alt="Hill_Top_Global_Superstores_Macro_Trend_Analysis" src="https://github.com/user-attachments/assets/3f39561d-ce4d-495f-a1b9-9840f29af2f7" />
-<img width="1222" height="512" alt="Hill_Top_Global_Superstores_Executive_Financial_Overview" src="https://github.com/user-attachments/assets/8233e6ae-35fc-47d9-b079-8cb64ae65fca" />
+## Visualizations<img width="1222" height="512" alt="Hill_Top_Global_Superstores_Executive_Financial_Overview" src="https://github.com/user-attachments/assets/1358cb3f-1a57-4a65-b29c-a7dd8a857971" />
+<img width="1223" height="509" alt="Hill_Top_Global_Superstores_Macro_Trend_Analysis" src="https://github.com/user-attachments/assets/77b5ffec-700e-4857-a744-4e15ac1ad424" />
+
 
