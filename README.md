@@ -1,4 +1,5 @@
 # 🛒 Hill-Top Global Superstores Executive Performance Suite
+![Executive Dashboard Visual](dashboard.png)
 
 ## 📌 Business Overview
 Hill-Top Global Superstores is a multinational retail enterprise generating sales across diverse product categories and customer segments. Despite high sales volume, profitability fluctuates significantly across geographical regions and product lines due to operational inefficiencies and discounting strategies.
