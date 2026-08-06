@@ -1,9 +1,6 @@
-
 # 🛒 Hill-Top Global Superstores Executive Performance Suite
-![Executive Dashboard Visual](dashboard.png)
 
 ## 📌 Business Overview
-Hill-Top Global Superstores is a multinational retail enterprise...
 Hill-Top Global Superstores is a multinational retail enterprise generating sales across diverse product categories and customer segments. Despite high sales volume, profitability fluctuates significantly across geographical regions and product lines due to operational inefficiencies and discounting strategies.
 
 This project delivers an interactive executive BI dashboard designed to evaluate revenue performance, regional profit margins, shipping bottlenecks, and product category trends to drive data-backed decision-making.
@@ -49,6 +46,7 @@ A primary focus of this project was enforcing strict data integrity before build
 * **Power BI Desktop:** Data Modeling, DAX, Interactive Visualization
 * **Power Query:** ETL, Data Cleaning & Deduplication
 * **Microsoft Excel:** Preliminary Data Auditing
-  
-  ## 📊 Executive Dashboard Preview
 
+---
+
+## 📊 Executive Dashboard Preview
