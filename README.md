@@ -1,5 +1,7 @@
 # 🛒 Hill-Top Global Superstores Executive Performance Suite
 
+<img width="1222" height="512" alt="Hill_Top_Global_Superstores_Executive_Financial_Overview" src="https://github.com/user-attachments/assets/0dfc4fee-ff31-446e-8447-8029c0b814c1" />
+
 ## 📌 Business Overview
 Hill-Top Global Superstores is a multinational retail enterprise generating sales across diverse product categories and customer segments. Despite high sales volume, profitability fluctuates significantly across geographical regions and product lines due to operational inefficiencies and discounting strategies.
 
@@ -50,3 +52,5 @@ A primary focus of this project was enforcing strict data integrity before build
 ---
 
 ## 📊 Executive Dashboard Preview
+<img width="1223" height="509" alt="Hill_Top_Global_Superstores_Macro_Trend_Analysis" src="https://github.com/user-attachments/assets/f2cbead0-ab5a-43a3-9553-89fa0811358e" />
+
