@@ -1,5 +1,4 @@
-<img width="1223" height="509" alt="Hill_Top_Global_Superstores_Macro_Trend_Analysis" src="https://github.com/user-attachments/assets/a578cf7e-2680-45d6-85a0-38dabb2c1254" />
-<img width="1222" height="512" alt="Hill_Top_Global_Superstores_Executive_Financial_Overview" src="https://github.com/user-attachments/assets/e340a616-3fa6-45ea-89b4-a85045c55c2c" />
+Executive Financial Overview Image<img width="1223" height="509" alt="Hill_Top_Global_Superstores_Macro_Trend_Analysis" src="https://github.com/user-attachments/assets/868297b1-bc97-40fb-8dde-00e693a9f794" />
 # 🛒 Hill-Top Global Superstores Executive Performance Suite
 ![Executive Dashboard Visual](dashboard.png)
 
@@ -49,3 +48,5 @@ A primary focus of this project was enforcing strict data integrity before build
 * **Power BI Desktop:** Data Modeling, DAX, Interactive Visualization
 * **Power Query:** ETL, Data Cleaning & Deduplication
 * **Microsoft Excel:** Preliminary Data Auditing
+* Customer Segment & Sales Trend<img width="1222" height="512" alt="Hill_Top_Global_Superstores_Executive_Financial_Overview" src="https://github.com/user-attachments/assets/0aa40234-5a47-47c5-89a2-4d0072055fd4" />
+
