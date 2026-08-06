@@ -1,3 +1,5 @@
+<img width="1223" height="509" alt="Hill_Top_Global_Superstores_Macro_Trend_Analysis" src="https://github.com/user-attachments/assets/a578cf7e-2680-45d6-85a0-38dabb2c1254" />
+<img width="1222" height="512" alt="Hill_Top_Global_Superstores_Executive_Financial_Overview" src="https://github.com/user-attachments/assets/e340a616-3fa6-45ea-89b4-a85045c55c2c" />
 # 🛒 Hill-Top Global Superstores Executive Performance Suite
 ![Executive Dashboard Visual](dashboard.png)
 
