@@ -26,4 +26,14 @@ Retail executives require end-to-end commercial visibility to monitor multi-chan
 
 ---
 
+## Download the Power BI Project
+
+The original two-page Microsoft Power BI report is available for download.
+
+[Download the Power BI Project (.pbix)](Hill-Top-Global-Superstores-PowerBI.pbix)
+
+Open the downloaded file using Microsoft Power BI Desktop to explore the original interactive report, visuals, and underlying data model.
+
+---
+
 *Developed by Emmanuel Ottoh | Data Analyst & BI Developer*
